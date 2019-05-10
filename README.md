@@ -12,5 +12,10 @@ Carolin Zöbelein, Published: 2019/05/10
 https://github.com/Samdney/notes/notes_0002   
 id: notes_0002  
 
+* **Primes (part 03): Recursion - New approach for also non-prime times tables**  
+Carolin Zöbelein, Published: 2019/05/10  
+https://github.com/Samdney/notes/notes_0003   
+id: notes_0003  
+
 
 
