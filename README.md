@@ -7,3 +7,10 @@ Carolin Zöbelein, Published: 2019/05/04
 https://github.com/Samdney/notes/notes_0001   
 id: notes_0001  
 
+* **Primes (part 02): Recursion - First-step valid solutions**  
+Carolin Zöbelein, Published: 2019/05/10  
+https://github.com/Samdney/notes/notes_0002   
+id: notes_0002  
+
+
+
