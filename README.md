@@ -17,5 +17,10 @@ Carolin Zöbelein, Published: 2019/05/10
 https://github.com/Samdney/notes/notes_0003   
 id: notes_0003  
 
+* **Primes (part 04): Playing around**  
+Carolin Zöbelein, Published: 2019/05/21  
+https://github.com/Samdney/notes/notes_0004   
+id: notes_0004  
+
 
 
