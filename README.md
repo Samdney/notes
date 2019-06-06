@@ -22,5 +22,10 @@ Carolin Zöbelein, Published: 2019/05/21
 https://github.com/Samdney/notes/notes_0004   
 id: notes_0004  
 
+* **Primes (part 05): Relationship between n̄ and n̄'**  
+Carolin Zöbelein, Published: 2019/06/06  
+https://github.com/Samdney/notes/notes_0005   
+id: notes_0005  
+
 
 
