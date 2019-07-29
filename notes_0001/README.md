@@ -2,6 +2,7 @@
 
 * **Primes (part 01): Recursion basics**  
 Carolin Zöbelein, Published: 2019/05/04  
+Subject Classification: 2010 Mathematics. Primary 11N05.  
 https://github.com/Samdney/notes/tree/master/notes_0001   
 id: notes_0001  
 

@@ -2,6 +2,7 @@
 
 * **Primes (part 04): Playing around**  
 Carolin Zöbelein, Published: 2019/05/21  
+Subject Classification: 2010 Mathematics. Primary 11N05.  
 https://github.com/Samdney/notes/tree/master/notes_0004   
 id: notes_0004  
 
