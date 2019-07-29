@@ -2,7 +2,7 @@
 
 * **Primes (part 04): Playing around**  
 Carolin Zöbelein, Published: 2019/05/21  
-https://github.com/Samdney/notes/notes_0004   
+https://github.com/Samdney/notes/tree/master/notes_0004   
 id: notes_0004  
 
 ## Abstract

@@ -2,7 +2,7 @@
 
 * **Primes (part 02): Recursion - First-step valid solutions**  
 Carolin Zöbelein, Published: 2019/05/10  
-https://github.com/Samdney/notes/notes_0002   
+https://github.com/Samdney/notes/tree/master/notes_0002   
 id: notes_0002  
 
 ## Abstract
