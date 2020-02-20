@@ -2,6 +2,13 @@
 
 **This repository is under construction. The content is incomplete. It will be added, step by step, in the next months.**    
 
+* **Notes: Basic conditions for a mathematical forced decentralized network protocol (MfDN-Protocol)**  
+Carolin Zöbelein, Published: 2020/02/20  
+ACM Computing Classification: Networks - Network protocol design.  
+Decentralization, Networks, Protocol, Mathematical, Privacy   
+https://github.com/Samdney/notes-mfdnprotocol-basicconditions  
+id: notes_0006  
+
 * **Primes (part 05): Relationship between n̄ and n̄'**  
 Carolin Zöbelein, Published: 2019/06/06  
 Subject Classification: 2010 Mathematics. Primary 11N05.  
