@@ -44,6 +44,10 @@ Distribution, Primes, Structure, Recursion
 https://github.com/Samdney/notes-primes01-recursionbasics    
 id: notes_0001  
 
-
-
+* **primescalc**  
+Carolin Zöbelein, Published: 2017/12/15  
+Subject Classification: 2010 Mathematics. Primary 11N05.  
+Distribution, Primes, Structure, Recursion  
+https://github.com/Samdney/primescalc  
+id: notes_0000
 
