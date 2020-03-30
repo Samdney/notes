@@ -2,6 +2,13 @@
 
 **This repository is under construction. The content is incomplete. It will be added, step by step, in the next months.**    
 
+* **Notes: Grundy values and distinct distances**   
+Carolin Zöbelein, Published: 2020/03/28  
+2010 Mathematics Classification: Primary 05A17.   
+Combinatoric, Integers, Sequences, Grundy values, Nim-values   
+https://github.com/Samdney/notes-grundyvaluesanddistinctdistances  
+id: notes_0007
+
 * **Notes: Basic conditions for a mathematical forced decentralized network protocol (MfDN-Protocol)**  
 Carolin Zöbelein, Published: 2020/02/20  
 ACM Computing Classification: Networks - Network protocol design.  
