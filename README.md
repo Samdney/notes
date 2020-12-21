@@ -2,10 +2,15 @@
 
 **This repository is under construction. The content is incomplete. It will be added, step by step, in the next months.**    
 
-**Notes: The (maximum) independent set problem (MISP) on Riemannian manifolds of higher dimensions**
-Carolin Zöbelein, Published: 2020/10/14
-https://github.com/Samdney/notes-MISRiemannian
-id: notes_XXXX
+* **Notes: The (maximum) independent set problem (MISP) on Riemannian manifolds of higher dimensions**  
+Carolin Zöbelein, Published: 2020/10/14  
+https://github.com/Samdney/notes-MISRiemannian  
+id: notes_000X  
+
+* **Notes: A 3SUM algorithm on the binary addition level of atomic generated real numbers**  
+Carolin Zöbelein, Published: 2020/09/06  
+https://github.com/Samdney/notes-3sum  
+id: notes_000X  
 
 * **Notes: Grundy values and distinct distances**   
 Carolin Zöbelein, Published: 2020/03/28  
